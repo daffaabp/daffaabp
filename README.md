@@ -7,9 +7,21 @@
 - 💻 Internship students at companies [CV. PrabuBima Tech](https://sevima.com/)
 - ✨ Student of informatics engineering at [Politeknik Negeri Cilacap](https://www.instagram.com/pncofficials/)
 - 🔥 Freelancer web developer
+<br><br>
 
 ### Portfolio Details
-- ⌨️ Checkout [My Detailed Portfolio](https://daffa-portofolio.000webhostapp.com/) 
+- ⌨️ Checkout [My Detailed Portfolio](https://daffa-portofolio.000webhostapp.com/)
+<br><br>
+
+### Tech Stack
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/html-3DDC84?logo=html&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/css-%23ED8B00.svg?logo=css&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/javascript-%230095D5.svg?logo=javascript&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/tailwindcss-000000.svg?logo=tailwindcss&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/reactjs-000000?logo=reactjs&logoColor=white">
+  <img align="left" src="https://img.shields.io/badge/laravel-%23FA7343.svg?logo=laravel&logoColor=white"/>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
