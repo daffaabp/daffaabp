@@ -25,4 +25,4 @@
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daffaabp&repo=github-readme-stats)](https://github.com/daffaabp/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaabp&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaabp&hide_progress=true&layout=compact&langs_count=8&theme=algolia")
