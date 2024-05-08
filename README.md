@@ -7,11 +7,11 @@
 - 💻 Internship students at companies [CV. PrabuBima Tech](https://sevima.com/)
 - ✨ Student of informatics engineering at [Politeknik Negeri Cilacap](https://www.instagram.com/pncofficials/)
 - 🔥 Freelancer web developer
-<br>
+<br></br>
 
 ### Portfolio Details
 - ⌨️ Checkout [My Detailed Portfolio](https://daffa-portofolio.000webhostapp.com/)
-<br>
+<br></br>
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
@@ -21,7 +21,7 @@
   <img align="left" src="https://img.shields.io/badge/tailwindcss-%230095D5.svg?logo=tailwindcss&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/react-%230095D5.svg?logo=react&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/laravel-%23FA7343.svg?logo=laravel&logoColor=white"/>
-<br>
+<br></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
