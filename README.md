@@ -17,7 +17,10 @@
 <a href="https://instagram.com/daffaabp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffaabp" height="30" width="40" /></a>
 </p>
 
-![Daffa Budi Prasetya](https://github-readme-stats.vercel.app/api?username=daffaabp&theme=gruvbox&show_icons=false)
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=daffaabp&layout=compact&theme=gruvbox)
+<p align="left">
+<a href="https://github.com/daffaabp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
