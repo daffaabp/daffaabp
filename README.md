@@ -24,3 +24,4 @@
 </a>
 </p>
 
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=daffaabp&layout=compact&theme=gruvbox)
