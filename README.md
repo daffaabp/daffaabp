@@ -14,6 +14,7 @@
 <br></br>
 
 ### Tech Stack
+  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/bootstrap-%230095D5.svg?logo=/bootstrap&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?logo=javascript&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/tailwindcss-%230095D5.svg?logo=tailwindcss&logoColor=white"/>
