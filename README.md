@@ -23,5 +23,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaabp&hide_progress=true&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaabp&hide_progress=true&layout=compact&langs_count=8&theme=algolia")
