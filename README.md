@@ -1,6 +1,6 @@
 # Hai there 👋
 
-## Currently, I'm learning to become a frontend engineer and now I'm a freelancer web dev 🇮🇩
+## Currently, I'm learning to become a frontend engineer and now I'm a freelancer web dev
 
 ### Latest Work
 
