@@ -24,4 +24,5 @@
 </a>
 </p>
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=daffaabp&layout=compact&theme=gruvbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daffaabp&repo=github-readme-stats)](https://github.com/daffaabp/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffaabp&hide_progress=true)
