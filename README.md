@@ -1,4 +1,4 @@
-# Hai ##there, **Daffa Budi Prasetya** ##here. 👋
+# Hai, **Daffa Budi Prasetya** here. 👋
 
 ## Currently, I'm learning to become a Frontend Dev and now I'm a Freelancer Web Dev
 
