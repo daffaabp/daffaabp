@@ -5,7 +5,7 @@
 ### Latest Work
 
 - 💻 Internship students at companies [CV. PrabuBima Tech](https://prabubimatech.com/)
-- ✨ Student of informatics engineering at [Politeknik Negeri Cilacap](https://www.instagram.com/pncofficials/)
+- ✨ Fresh graduate informatics engineering at [Politeknik Negeri Cilacap](https://www.instagram.com/pncofficials/)
 - 🔥 Freelancer web developer
 <br></br>
 
