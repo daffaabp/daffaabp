@@ -1,6 +1,6 @@
 # Hai, **Daffa Budi Prasetya** here. 👋
 
-## Currently, I'm learning to become a Frontend Dev and now I'm a Freelancer Web Dev
+## Currently, I'm Frontend Dev and now I'm a Freelancer Web Dev
 
 ### Latest Work
 
