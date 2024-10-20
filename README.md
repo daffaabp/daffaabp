@@ -10,7 +10,7 @@
 <br></br>
 
 ### Portfolio Details
-- ⌨️ Checkout [My Detailed Portfolio](https://daffa-portofolio.000webhostapp.com/)
+- ⌨️ Checkout [My Detailed Portfolio](https://daffaabp-portfolio.vercel.app/)
 <br></br>
 
 ### Tech Stack
